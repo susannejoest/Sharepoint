@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "div",
+  "children": [
+    {
+      "elmType": "img",
+      "attributes": {
+        "src": "='http://flags.fmcdn.net/data/flags/h20/' + toLowerCase(@currentField) + '.png'",
+        "title": "@currentField"
+      },
+      "style": {
+        "max-width": "23px",
+        "padding": "0 6px 0 0"
+      }
+    },
+    {
+      "elmType": "span",
+      "txtContent": "@currentField"
+    }
+  ]
+}

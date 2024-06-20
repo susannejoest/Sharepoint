@@ -1,0 +1,659 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "box-sizing": "border-box",
+    "padding": "0 2px"
+  },
+  "attributes": {
+    "class": {
+      "operator": ":",
+      "operands": [
+        {
+          "operator": "==",
+          "operands": [
+            "[$TemplateSubType_STAGE]",
+            "Caregiver"
+          ]
+        },
+        "sp-css-backgroundColor-blueBackground37",
+        {
+          "operator": ":",
+          "operands": [
+            {
+              "operator": "==",
+              "operands": [
+                "[$TemplateSubType_STAGE]",
+                "HCO"
+              ]
+            },
+            "sp-css-backgroundColor-blueBackground37",
+            {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "[$TemplateSubType_STAGE]",
+                    "HCP"
+                  ]
+                },
+                "sp-css-backgroundColor-blueBackground37",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "[$TemplateSubType_STAGE]",
+                        "HCP/HCO"
+                      ]
+                    },
+                    "sp-css-backgroundColor-blueBackground37",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "[$TemplateSubType_STAGE]",
+                            "Institution"
+                          ]
+                        },
+                        "sp-css-backgroundColor-blueBackground37",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "[$TemplateSubType_STAGE]",
+                                "Patient"
+                              ]
+                            },
+                            "sp-css-backgroundColor-blueBackground37",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "[$TemplateSubType_STAGE]",
+                                    "Patient Organization"
+                                  ]
+                                },
+                                "sp-css-backgroundColor-blueBackground37",
+                                {
+                                  "operator": ":",
+                                  "operands": [
+                                    {
+                                      "operator": "==",
+                                      "operands": [
+                                        "[$TemplateSubType_STAGE]",
+                                        "Pharmacy"
+                                      ]
+                                    },
+                                    "sp-css-backgroundColor-successBackground50",
+                                    {
+                                      "operator": ":",
+                                      "operands": [
+                                        {
+                                          "operator": "==",
+                                          "operands": [
+                                            "[$TemplateSubType_STAGE]",
+                                            "PO"
+                                          ]
+                                        },
+                                        "sp-css-backgroundColor-blueBackground37",
+                                        {
+                                          "operator": ":",
+                                          "operands": [
+                                            {
+                                              "operator": "==",
+                                              "operands": [
+                                                "[$TemplateSubType_STAGE]",
+                                                "Non HCP/HCO"
+                                              ]
+                                            },
+                                            "sp-css-backgroundColor-neutralBackground30",
+                                            {
+                                              "operator": ":",
+                                              "operands": [
+                                                {
+                                                  "operator": "==",
+                                                  "operands": [
+                                                    "[$TemplateSubType_STAGE]",
+                                                    "One-Way"
+                                                  ]
+                                                },
+                                                "sp-css-backgroundColor-warningBackground50",
+                                                {
+                                                  "operator": ":",
+                                                  "operands": [
+                                                    {
+                                                      "operator": "==",
+                                                      "operands": [
+                                                        "[$TemplateSubType_STAGE]",
+                                                        "Two-Way"
+                                                      ]
+                                                    },
+                                                    "sp-css-backgroundColor-warningBackground50",
+                                                    {
+                                                      "operator": ":",
+                                                      "operands": [
+                                                        {
+                                                          "operator": "==",
+                                                          "operands": [
+                                                            "[$TemplateSubType_STAGE]",
+                                                            "Website (Digital)"
+                                                          ]
+                                                        },
+                                                        "sp-css-backgroundColor-neutralBackground20",
+                                                        {
+                                                          "operator": ":",
+                                                          "operands": [
+                                                            {
+                                                              "operator": "==",
+                                                              "operands": [
+                                                                "[$TemplateSubType_STAGE]",
+                                                                "Wholesaler"
+                                                              ]
+                                                            },
+                                                            "sp-css-backgroundColor-blockingBackground30",
+                                                            {
+                                                              "operator": ":",
+                                                              "operands": [
+                                                                {
+                                                                  "operator": "==",
+                                                                  "operands": [
+                                                                    "[$TemplateSubType_STAGE]",
+                                                                    "N/A"
+                                                                  ]
+                                                                },
+                                                                "sp-css-backgroundColor-errorBackground30",
+                                                                {
+                                                                  "operator": ":",
+                                                                  "operands": [
+                                                                    {
+                                                                      "operator": "==",
+                                                                      "operands": [
+                                                                        "[$TemplateSubType_STAGE]",
+                                                                        ""
+                                                                      ]
+                                                                    },
+                                                                    "",
+                                                                    ""
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "style": {
+        "line-height": "16px",
+        "height": "14px"
+      },
+      "attributes": {
+        "iconName": {
+          "operator": ":",
+          "operands": [
+            {
+              "operator": "==",
+              "operands": [
+                "[$TemplateSubType_STAGE]",
+                "Caregiver"
+              ]
+            },
+            "MapDirections",
+            {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "[$TemplateSubType_STAGE]",
+                    "HCO"
+                  ]
+                },
+                "",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "[$TemplateSubType_STAGE]",
+                        "HCP"
+                      ]
+                    },
+                    "",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "[$TemplateSubType_STAGE]",
+                            "HCP/HCO"
+                          ]
+                        },
+                        "",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "[$TemplateSubType_STAGE]",
+                                "Institution"
+                              ]
+                            },
+                            "Nav2DMapView",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "[$TemplateSubType_STAGE]",
+                                    "Patient"
+                                  ]
+                                },
+                                "",
+                                {
+                                  "operator": ":",
+                                  "operands": [
+                                    {
+                                      "operator": "==",
+                                      "operands": [
+                                        "[$TemplateSubType_STAGE]",
+                                        "Patient Organization"
+                                      ]
+                                    },
+                                    "",
+                                    {
+                                      "operator": ":",
+                                      "operands": [
+                                        {
+                                          "operator": "==",
+                                          "operands": [
+                                            "[$TemplateSubType_STAGE]",
+                                            "Pharmacy"
+                                          ]
+                                        },
+                                        "",
+                                        {
+                                          "operator": ":",
+                                          "operands": [
+                                            {
+                                              "operator": "==",
+                                              "operands": [
+                                                "[$TemplateSubType_STAGE]",
+                                                "PO"
+                                              ]
+                                            },
+                                            "",
+                                            {
+                                              "operator": ":",
+                                              "operands": [
+                                                {
+                                                  "operator": "==",
+                                                  "operands": [
+                                                    "[$TemplateSubType_STAGE]",
+                                                    "Non HCP/HCO"
+                                                  ]
+                                                },
+                                                "",
+                                                {
+                                                  "operator": ":",
+                                                  "operands": [
+                                                    {
+                                                      "operator": "==",
+                                                      "operands": [
+                                                        "[$TemplateSubType_STAGE]",
+                                                        "One-Way"
+                                                      ]
+                                                    },
+                                                    "",
+                                                    {
+                                                      "operator": ":",
+                                                      "operands": [
+                                                        {
+                                                          "operator": "==",
+                                                          "operands": [
+                                                            "[$TemplateSubType_STAGE]",
+                                                            "Two-Way"
+                                                          ]
+                                                        },
+                                                        "",
+                                                        {
+                                                          "operator": ":",
+                                                          "operands": [
+                                                            {
+                                                              "operator": "==",
+                                                              "operands": [
+                                                                "[$TemplateSubType_STAGE]",
+                                                                "Website (Digital)"
+                                                              ]
+                                                            },
+                                                            "",
+                                                            {
+                                                              "operator": ":",
+                                                              "operands": [
+                                                                {
+                                                                  "operator": "==",
+                                                                  "operands": [
+                                                                    "[$TemplateSubType_STAGE]",
+                                                                    "Wholesaler"
+                                                                  ]
+                                                                },
+                                                                "",
+                                                                {
+                                                                  "operator": ":",
+                                                                  "operands": [
+                                                                    {
+                                                                      "operator": "==",
+                                                                      "operands": [
+                                                                        "[$TemplateSubType_STAGE]",
+                                                                        "N/A"
+                                                                      ]
+                                                                    },
+                                                                    "",
+                                                                    {
+                                                                      "operator": ":",
+                                                                      "operands": [
+                                                                        {
+                                                                          "operator": "==",
+                                                                          "operands": [
+                                                                            "[$TemplateSubType_STAGE]",
+                                                                            ""
+                                                                          ]
+                                                                        },
+                                                                        "",
+                                                                        ""
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "elmType": "span",
+      "style": {
+        "overflow": "hidden",
+        "text-overflow": "ellipsis",
+        "padding": "0 3px"
+      },
+      "txtContent": "[$TemplateSubType_STAGE]",
+      "attributes": {
+        "class": {
+          "operator": ":",
+          "operands": [
+            {
+              "operator": "==",
+              "operands": [
+                "[$TemplateSubType_STAGE]",
+                "Caregiver"
+              ]
+            },
+            "",
+            {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "[$TemplateSubType_STAGE]",
+                    "HCO"
+                  ]
+                },
+                "",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "[$TemplateSubType_STAGE]",
+                        "HCP"
+                      ]
+                    },
+                    "",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "[$TemplateSubType_STAGE]",
+                            "HCP/HCO"
+                          ]
+                        },
+                        "",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "[$TemplateSubType_STAGE]",
+                                "Institution"
+                              ]
+                            },
+                            "",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "[$TemplateSubType_STAGE]",
+                                    "Patient"
+                                  ]
+                                },
+                                "",
+                                {
+                                  "operator": ":",
+                                  "operands": [
+                                    {
+                                      "operator": "==",
+                                      "operands": [
+                                        "[$TemplateSubType_STAGE]",
+                                        "Patient Organization"
+                                      ]
+                                    },
+                                    "",
+                                    {
+                                      "operator": ":",
+                                      "operands": [
+                                        {
+                                          "operator": "==",
+                                          "operands": [
+                                            "[$TemplateSubType_STAGE]",
+                                            "Pharmacy"
+                                          ]
+                                        },
+                                        "",
+                                        {
+                                          "operator": ":",
+                                          "operands": [
+                                            {
+                                              "operator": "==",
+                                              "operands": [
+                                                "[$TemplateSubType_STAGE]",
+                                                "PO"
+                                              ]
+                                            },
+                                            "",
+                                            {
+                                              "operator": ":",
+                                              "operands": [
+                                                {
+                                                  "operator": "==",
+                                                  "operands": [
+                                                    "[$TemplateSubType_STAGE]",
+                                                    "Non HCP/HCO"
+                                                  ]
+                                                },
+                                                "",
+                                                {
+                                                  "operator": ":",
+                                                  "operands": [
+                                                    {
+                                                      "operator": "==",
+                                                      "operands": [
+                                                        "[$TemplateSubType_STAGE]",
+                                                        "One-Way"
+                                                      ]
+                                                    },
+                                                    "",
+                                                    {
+                                                      "operator": ":",
+                                                      "operands": [
+                                                        {
+                                                          "operator": "==",
+                                                          "operands": [
+                                                            "[$TemplateSubType_STAGE]",
+                                                            "Two-Way"
+                                                          ]
+                                                        },
+                                                        "",
+                                                        {
+                                                          "operator": ":",
+                                                          "operands": [
+                                                            {
+                                                              "operator": "==",
+                                                              "operands": [
+                                                                "[$TemplateSubType_STAGE]",
+                                                                "Website (Digital)"
+                                                              ]
+                                                            },
+                                                            "",
+                                                            {
+                                                              "operator": ":",
+                                                              "operands": [
+                                                                {
+                                                                  "operator": "==",
+                                                                  "operands": [
+                                                                    "[$TemplateSubType_STAGE]",
+                                                                    "Wholesaler"
+                                                                  ]
+                                                                },
+                                                                "",
+                                                                {
+                                                                  "operator": ":",
+                                                                  "operands": [
+                                                                    {
+                                                                      "operator": "==",
+                                                                      "operands": [
+                                                                        "[$TemplateSubType_STAGE]",
+                                                                        "N/A"
+                                                                      ]
+                                                                    },
+                                                                    "",
+                                                                    {
+                                                                      "operator": ":",
+                                                                      "operands": [
+                                                                        {
+                                                                          "operator": "==",
+                                                                          "operands": [
+                                                                            "[$TemplateSubType_STAGE]",
+                                                                            ""
+                                                                          ]
+                                                                        },
+                                                                        "",
+                                                                        ""
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

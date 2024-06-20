@@ -1,0 +1,277 @@
+{
+  "elmType": "div",
+  "style": {
+    	"box-sizing": "border-box",
+    	"padding": "0 2px"
+  },
+  "children": [
+    {
+      "elmType": "div",
+      "style": {
+    	"box-sizing": "border-box",
+    	"padding": "0 2px"
+      },
+      "attributes": {
+        "class": {
+          "operator": ":",
+          "operands": [
+            {
+              "operator": "==",
+              "operands": [
+                "@currentField.lookupValue",
+                "_N/A"
+              ]
+            },
+            "sp-css-backgroundColor-blueBackground37",
+            {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "@currentField.lookupValue",
+                    "_MULTIPLE COUNTRIES"
+                  ]
+                },
+                "sp-css-backgroundColor-successBackground50",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "@currentField.lookupValue",
+                        "_GUIDANCE DOCUMENT"
+                      ]
+                    },
+                    "sp-css-backgroundColor-warningBackground50",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "@currentField.lookupValue",
+                            ""
+                          ]
+                        },
+                        "",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "@currentField.lookupValue",
+                                "No"
+                              ]
+                            },
+                            "sp-css-backgroundColor-blockingBackground50",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "@currentField.lookupValue",
+                                    "Other"
+                                  ]
+                                },
+                                "sp-css-backgroundColor-neutralBackground30",
+                                "sp-field-borderAllRegular sp-field-borderAllSolid sp-css-borderColor-neutralSecondary"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "elmType": "span",
+          "style": {
+            "line-height": "16px",
+            "height": "14px"
+          },
+          "attributes": {
+            "iconName": {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "@currentField.lookupValue",
+                    "Clarify"
+                  ]
+                },
+                "",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "@currentField.lookupValue",
+                        "Yes"
+                      ]
+                    },
+                    "",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "@currentField.lookupValue",
+                            "Partially"
+                          ]
+                        },
+                        "",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "@currentField.lookupValue",
+                                ""
+                              ]
+                            },
+                            "",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "@currentField.lookupValue",
+                                    "No"
+                                  ]
+                                },
+                                "",
+                                {
+                                  "operator": ":",
+                                  "operands": [
+                                    {
+                                      "operator": "==",
+                                      "operands": [
+                                        "@currentField.lookupValue",
+                                        "Other"
+                                      ]
+                                    },
+                                    "",
+                                    ""
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "elmType": "span",
+          "style": {
+            "overflow": "hidden",
+            "text-overflow": "ellipsis",
+            "padding": "0 3px"
+          },
+          "txtContent": "@currentField.lookupValue",
+          "attributes": {
+            "class": {
+              "operator": ":",
+              "operands": [
+                {
+                  "operator": "==",
+                  "operands": [
+                    "@currentField.lookupValue",
+                    "Clarify"
+                  ]
+                },
+                "",
+                {
+                  "operator": ":",
+                  "operands": [
+                    {
+                      "operator": "==",
+                      "operands": [
+                        "@currentField.lookupValue",
+                        "Yes"
+                      ]
+                    },
+                    "",
+                    {
+                      "operator": ":",
+                      "operands": [
+                        {
+                          "operator": "==",
+                          "operands": [
+                            "@currentField.lookupValue",
+                            "Partially"
+                          ]
+                        },
+                        "",
+                        {
+                          "operator": ":",
+                          "operands": [
+                            {
+                              "operator": "==",
+                              "operands": [
+                                "@currentField.lookupValue",
+                                ""
+                              ]
+                            },
+                            "",
+                            {
+                              "operator": ":",
+                              "operands": [
+                                {
+                                  "operator": "==",
+                                  "operands": [
+                                    "@currentField.lookupValue",
+                                    "No"
+                                  ]
+                                },
+                                "",
+                                {
+                                  "operator": ":",
+                                  "operands": [
+                                    {
+                                      "operator": "==",
+                                      "operands": [
+                                        "@currentField.lookupValue",
+                                        "Other"
+                                      ]
+                                    },
+                                    "",
+                                    ""
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
