@@ -1,0 +1,13 @@
+USE EXCEL ONLINE to copy tab link
+
+in full app
+
+https://mytakeda.sharepoint.com/sites/EUCANLINCAxxerionRoll-out/Shared%20Documents/ContractListsDataAndGaps/Contiki_Contract_List_AllUp_TopSecretTitlesRedacted.xlsx?web=1#ContractList!a1
+
+https://mytakeda.sharepoint.com/sites/EUCANLegalOperationsTeamSharePoint/Shared Documents/General/Contract_Management/EUCAN LEGAL CONTRACTING/LOC Material/EUCAN Responsibilities LINC.xlsx?web=1#LINC_Review_LOCs!A1
+
+RANGE (must be created in Excel app not online)
+Reporting.xlsx?web=1?range='TimeInPhase'
+
+https://mytakeda.sharepoint.com/sites/EUCANLegalOperationsTeamSharePoint/Shared Documents/General/Contract_Management/EUCAN LEGAL CONTRACTING/LOC Material/EUCAN Responsibilities LINC.xlsx?web=1#range='EL_Responsibilites'
+

@@ -1,0 +1,27 @@
+\\DEMRHCONP001\Contiki_Shared\SGO9378\Contracts
+
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/templates/LOCS/Finland
+DAB_Overview.pdf
+Templates/PLG/Digital
+
+
+Naming Convention
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#naming-convention
+
+Document Check in Check out
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#document-check-in-check-out
+
+Template Links
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#template-links
+
+
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#steps-for-editing-template-(button)-link
+
+Adding a new Button (Group)
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#adding-a-new-button-(group)
+
+Headers with Hyperlinks
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SitePages/TemplateEditorUserGuide.aspx#headers-with-hyperlinks
+
+
+https://mytakeda.sharepoint.com/sites/EUCAN-Legal/Templates/LOCS/Norway/TNO_Consultancy_HCP_EN.docx?web=1
