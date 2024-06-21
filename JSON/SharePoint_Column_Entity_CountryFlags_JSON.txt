@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "div",
+  "children": [
+    {
+      "elmType": "img",
+      "attributes": {
+        "src": "='https://mytakeda.sharepoint.com/sites/EUCAN-Legal/SiteAssets/Lists/f67011b4-d9e3-413b-8c03-df34f6e4cd71/' + @currentField + '.png'",
+        "title": "@currentField"
+      },
+      "style": {
+        "max-width": "20px",
+        "max-height": "20px"
+      }
+    },
+    {
+      "elmType": "span",
+      "txtContent": "@currentField"
+    }
+  ]
+}
